@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/hadmars100406/Globalynk/_apis/build/status/Globalynk?branchName=master)](https://dev.azure.com/hadmars100406/Globalynk/_build/latest?definitionId=1&branchName=master)
