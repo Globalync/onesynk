@@ -1,2 +1,2 @@
-# Globalynk-1
+# Globalynk
 Globalization
