@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: ccbfd212480ecd744a0d4a5747b3b8d7
+  productGUID: ff345e6464f70bb478f4e494c308e0b4
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: globalynk.com
+  productName: globalynk
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -508,14 +508,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: globalynk.com
+  metroPackageName: globalynk
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: globalynk.com
+  metroApplicationDescription: globalynk
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -586,12 +586,11 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled:
-    UNet: 1
+  cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bd42c128-ab20-41c2-a105-567eacabcd74
-  projectName: globalynk.com
+  cloudProjectId: 201cd660-4e2d-4d88-a85b-a3570957f4ec
+  projectName: globalynk
   organizationId: globalync-ltd
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
